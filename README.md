@@ -1,5 +1,5 @@
 # Line
-Line 登入 及 Line message
+Line login and Line message
 
 [![versionspringboot](https://img.shields.io/badge/springboot-2.4.0_RELEASE-brightgreen.svg?logo=spring)](https://github.com/spring-projects/spring-boot)
 [![versionjava](https://img.shields.io/badge/jdk-8-brightgreen.svg?logo=java)](https://www.oracle.com/java/)
